@@ -1,0 +1,23 @@
+Subject: Invoice 2026-114 overdue, action required
+From: billing@example-billing.net
+To: accounts@example.com
+Date: Tue, 17 Nov 2026 09:14:02 +0530
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9157619746958160637=="
+
+--===============9157619746958160637==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please find the overdue invoice attached. Open it today to avoid service inte=
+rruption.
+
+--===============9157619746958160637==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Invoice_2026.pdf.exe"
+MIME-Version: 1.0
+
+TVqQAAMAAABzYW1wbGUtbm90LWEtcmVhbC1iaW5hcnk=
+
+--===============9157619746958160637==--
